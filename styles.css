@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+* {
+  box-sizing: border-box;
+}
+html * {
+
+  font-family: 'Kumbh Sans', sans-serif;
+}
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+
+
+main {
+  padding: 1rem;
+  background-color: hsl(185, 75%, 39%);
+  background-image: url('/images/bg-pattern-top.svg');
+  background-repeat: no-repeat;
+  background-position: -550px -500px;
+
+
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.container{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  height:100vh;
+}
+.profile-card{
+  height:28rem;
+  width:25rem;
+  background-color: white;
+  border-radius: 25px;
+}
+.name{
+  font-weight: 700;
+}
+.stat-num{
+  font-weight: 700;
+  font-size: 1.5rem
+}
+.avatar{
+  border-radius: 50px;
+  position: relative;
+  top:-50px;
+}
+.top-section{
+  height:10rem;
+  background-image: url("/images/bg-pattern-card.svg");
+  border-radius: 25px 25px 0px 0px;
+}
+.stats{
+  flex: auto;
+
+
+}
+.stat{
+  padding-right:5%;
+  display: inline-block;
+
+}
