@@ -18,7 +18,7 @@ body {
 
 main {
   background-color: hsl(185, 75%, 39%);
-  background-image: url('/images/bg-pattern-top.svg'), url('/images/bg-pattern-bottom.svg');
+  background-image: url('./images/bg-pattern-top.svg'), url('./images/bg-pattern-bottom.svg');
   background-repeat: no-repeat, no-repeat;
   background-position: -100px -400px, 1000px 400px;
 }
@@ -66,7 +66,7 @@ h1 {
 
 .top-section {
   height: 8rem;
-  background-image: url("/images/bg-pattern-card.svg");
+  background-image: url("./images/bg-pattern-card.svg");
   border-radius: 25px 25px 0px 0px;
 }
 
