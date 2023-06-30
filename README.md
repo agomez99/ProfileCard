@@ -5,7 +5,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [https://github.com/agomez99/ProfileCard](https://github.com/agomez99/ProfileCard)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://agomez99.github.io/ProfileCard/](https://agomez99.github.io/ProfileCard/)
 
 ### Built with
 
